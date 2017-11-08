@@ -55,7 +55,7 @@ div.jumbotron{
   background-color: #e9ecef;
   padding: 10px;
 }
-div.jumbotron h1{
+jumbotron h1{
   font-size: 60px;
 }
 div.jumbotron p{
